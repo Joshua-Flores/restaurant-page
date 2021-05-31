@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Joshua-Flores/restaurant-page/issues"
   },
-  "homepage": "https://github.com/Joshua-Flores/restaurant-page#readme"
+  "homepage": "https://github.com/Joshua-Flores/restaurant-page#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.7.0"
+  }
 }
