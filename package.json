@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Joshua-Flores/restaurant-page#readme",
   "devDependencies": {
+    "css-loader": "^5.2.6",
     "node-sass": "^6.0.0",
     "sass-loader": "^11.1.1",
     "style-loader": "^2.0.0",
